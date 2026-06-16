@@ -1,5 +1,7 @@
 # 📦 快递追踪通知系统
 
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
+
 支持 **流通王(ScoreJP)** 和 **OCS** 的物流追踪，定时检查状态变化并自动推送通知。
 
 ## 功能
@@ -116,4 +118,6 @@ tracking-notifier/
 
 ## 协议
 
-MIT
+Apache License 2.0
+
+详见 [LICENSE](LICENSE) 文件。
